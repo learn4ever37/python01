@@ -1,0 +1,17 @@
+'''
+def Main():
+    print ("Guess a random number form 1 to 50.")
+    randomNumber = 20
+    found = False
+    while not found 
+        userGuess = input("Your guess: ") 
+        if userGuess == randomNumber:
+                print("You got it!!")
+                found = True
+        else:
+                print ('Guess again!')
+
+
+if __name__ == '__main__':
+    Main()
+'''    
